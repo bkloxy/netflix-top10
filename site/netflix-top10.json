@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "status": "published",
-  "freshness_status": "current",
+  "freshness_status": "stale",
   "source": "Netflix Global Top 10",
   "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-global.tsv",
   "week_ending": "2026-10-18",
